@@ -1,2 +1,5 @@
-# jobs
-Vous voulez vous joindre à nous, c'est par ici que ça se passe ;)
+# jobs -> Rejoins la team
+
+Tu veux rejoindre la team et devenir un super hero de la presse ?
+
+Retrouves nos offres d'emploi dans les issues ;)
